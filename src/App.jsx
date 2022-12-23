@@ -1,3 +1,11 @@
+// Seccion de testing:
+// En vite hay que configurarlo desde 0 (con CRA tamb hay que configurar pero no desde 0)
+
+// Vamos a usar Jest y React testing library
+//  instalamos: npm install --save-dev jest
+
+
+
 import { useState } from 'react';
 import PropTypes from 'prop-types';
 
