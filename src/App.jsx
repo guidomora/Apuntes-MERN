@@ -2,8 +2,18 @@
 // En vite hay que configurarlo desde 0 (con CRA tamb hay que configurar pero no desde 0)
 
 // Vamos a usar Jest y React testing library
-//  instalamos: npm install --save-dev jest
 
+
+// instalamos: npm install --save-dev jest
+// En el package.json en la poarte de scripts agregamos "test": "jest"
+
+// En el src creamos una carpeta test con un archivo que tenga algun nombre.test.js
+
+// Para ejecutar las pruebas escribimos en la consola "npm test"
+// Al package.json en la parte que habiamos agregado "test": "jest" le agregamos 
+// "test": "jest --watchAll" esto nos permite escuchar todos los cambios que hay
+
+// El apunte sigue en demo.test.js
 
 
 import { useState } from 'react';
