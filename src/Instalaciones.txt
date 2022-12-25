@@ -1,0 +1,7 @@
+npm install prop-types
+npm install --save-dev @types/jest
+npm install --save-dev babel-jest
+npm i whatwg-fetch
+npm install --save-dev @testing-library/react
+npm i jest-environment-jsdom
+npm i @babel/preset-react

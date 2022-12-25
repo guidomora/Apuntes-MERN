@@ -3,7 +3,7 @@
 // 2) Estimulo
 // 3) Aserciones (observar el comportamiento esperado)
 
-// instalar "npm install --save-dev t@types/jest"
+// instalar "npm install --save-dev @types/jest"
 // Sirve para no tener que aprenderse todos los tipos
 
 // El describe sirve para describir literalmente el tipo de prueba 
