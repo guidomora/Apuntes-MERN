@@ -18,7 +18,7 @@
 //  El apunte sigue ahi
 
 
-
+const { render } = require("@testing-library/react");
 describe("Pruebas en <EsteComponente />", () => {
   test("esta prueba no debe fallar", () => {
     const message1 = "Hola mundo";
